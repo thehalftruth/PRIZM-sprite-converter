@@ -1,7 +1,7 @@
 #https://github.com/thehalftruth/PRIZM-sprite-converter
 #Last changes: 10.03.2016
 #License: GPLv3 (https://gnu.org/licenses/gpl-3.0.txt)
-__version__ = '0.2'
+__version__ = '1.0.1'
 
 
 import os
